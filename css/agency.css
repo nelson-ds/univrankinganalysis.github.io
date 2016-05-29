@@ -10,11 +10,11 @@ body {
 }
 
 .text-muted {
-    color: blue;
+    color: #777;
 }
 
 .text-primary {
-    color: blue;
+    color: #fed136;
 }
 
 p {
@@ -25,7 +25,7 @@ p {
 p2 {
     font-size: 14px;
     line-height: 1.75;
-    color: blue;
+    color: #777;
 }
 
 p.large {
@@ -41,14 +41,14 @@ a.active {
 }
 
 a {
-    color: blue;
+    color: #fed136;
 }
 
 a:hover,
 a:focus,
 a:active,
 a.active {
-    color: blue;
+    color: #fec503;
 }
 
 h1,
@@ -67,11 +67,11 @@ h6 {
 }
 
 .bg-light-gray {
-    background-color: blue;
+    background-color: #f7f7f7;
 }
 
 .bg-darkest-gray {
-    background-color: blue
+    background-color: #222;
 }
 
 .btn-primary {
@@ -269,7 +269,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: blue;
+    color: #fff;
     background-attachment: scroll;
     background-image: url(../img/header-bg.jpg);
     background-position: center center;

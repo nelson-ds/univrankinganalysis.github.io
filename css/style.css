@@ -3,7 +3,7 @@
 }
 
 body {
-  color: blue;
+  color: #333;
   font-family: 'Yanone Kaffeesatz', Arial, Helvetica, sans-serif;
   font-size: 20px;
   line-height: 20px;
@@ -12,11 +12,11 @@ img {
   border: none;
 }
 a {
-  color: blue;
+  color: #006BA4;
   text-decoration: none;
 }
 a:hover {
-  color: blue;
+  color: #AEC7E8;
   text-decoration: underline;
 }
 
@@ -40,7 +40,7 @@ a:hover {
 }
 #header h2 {
   padding-left: 10px;
-  color: blue;
+  color: #666;
   font-size: 14px;
   font-weight: 100;
 }
@@ -61,7 +61,7 @@ a:hover {
   font-weight: 600;
 }
 .right p {
- color: blue;
+ color: #777;
 }
 #result a {
   margin-right: 5px;  
@@ -137,10 +137,10 @@ input[type=text] {
   float: left;
   display: block;
   margin-right: 4px;
-  color: blue;
+  color: #777;
 }
 .tagcloud_item:hover {
-  color: blue;
+  color: #f00;
 }
 
 /* tagcloud */
