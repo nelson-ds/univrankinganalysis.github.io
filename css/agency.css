@@ -185,10 +185,13 @@ fieldset[disabled] .btn-xl.active {
     color: #FFFFFF;
 }
 
-.navbar-default .navbar-brand:hover,
-.navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
+    color: #FFFFFF;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
     color: #fec503;
 }
 
