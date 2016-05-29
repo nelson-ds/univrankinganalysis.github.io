@@ -67,11 +67,11 @@ h6 {
 }
 
 .bg-light-gray {
-    background-color: #f7f7f7;
+    background-color: blue;
 }
 
 .bg-darkest-gray {
-    background-color: #222;
+    background-color: blue
 }
 
 .btn-primary {
@@ -269,7 +269,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    color: blue;
     background-attachment: scroll;
     background-image: url(../img/header-bg.jpg);
     background-position: center center;
