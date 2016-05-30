@@ -22,12 +22,8 @@
   stroke-width: 1.5px;
 }
 
-.graph-svg-component {
-    background-color: white;
-}
 </style>
 <body>
-
 <script src="d3.v3.min.js" charset="utf-8"></script>
 <script>
 
@@ -48,11 +44,10 @@ var diagonal = d3.svg.diagonal()
 var svg = d3.select("body").append("svg")
     .attr("width", width + margin.right + margin.left)
     .attr("height", height + margin.top + margin.bottom)
-    .attr("class", "graph-svg-component")
-    .append("g")
+  .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.json("univrankingfinal.json", function(error, flare) {
+d3.json("univranking.json", function(error, flare) {
   if (error) throw error;
 
   root = flare;

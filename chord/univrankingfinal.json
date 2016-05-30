@@ -1,0 +1,412 @@
+{
+ "name": "University Rankings",
+ "children": [
+  {
+   "name": "Most Reliable",
+   "children": [
+   {
+   "name": "Australia",
+   "children": [
+    {"name": "University of Sydney", "size": 3938}
+      ]
+      },
+    {
+   "name": "Belgium",
+   "children": [
+    {"name": "KU Leuven", "size": 3938}
+      ]
+      },
+    {
+   "name": "Canada",
+   "children": [
+    {"name": "McGill University", "size": 3938},
+    {"name": "University of Toronto", "size": 3938}
+      ]
+      },
+    {
+   "name": "Japan",
+   "children": [
+    {"name": "University of Tokyo", "size": 3938}
+      ]
+      },
+    {
+   "name": "Netherlands",
+   "children": [
+    {"name": "University of Amsterdam", "size": 3938}
+      ]
+      },
+    {
+   "name": "Switzerland",
+   "children": [
+    {"name": "Swiss Federal Institute of Technology Zurich", "size": 3938}
+      ]
+      },
+     {
+   "name": "United Kingdom",
+   "children": [
+    {"name": "Imperial College London", "size": 3938},
+    {"name": "University College London", "size": 3938},
+    {"name": "University of Cambridge", "size": 3938},
+    {"name": "University of Edinburgh", "size": 3938},
+    {"name": "University of Oxford", "size": 3938}
+      ]
+      },
+    {
+   "name": "USA",
+   "children": [
+    {"name": "Boston University", "size": 3938},
+    {"name": "Brown University", "size": 3938},
+    {"name": "California Institute of Technology", "size": 3938},
+    {"name": "Carnegie Mellon University", "size": 3938},
+    {"name": "Columbia University", "size": 3938},
+    {"name": "Cornell University", "size": 3938},
+    {"name": "Duke University", "size": 3938},
+    {"name": "Emory University", "size": 3938},
+    {"name": "Harvard University", "size": 3938},
+    {"name": "Johns Hopkins University", "size": 3938},
+    {"name": "Massachusetts Institute of Technology", "size": 3938},
+    {"name": "Michigan State University", "size": 3938},
+    {"name": "New York University", "size": 3938},
+    {"name": "Northwestern University", "size": 3938},
+    {"name": "Ohio State University", "size": 3938},
+    {"name": "Pennsylvania State University", "size": 3938},
+    {"name": "Princeton University", "size": 3938},
+    {"name": "Stanford University", "size": 3938},
+    {"name": "Tufts University", "size": 3938},
+    {"name": "University of Arizona", "size": 3938},
+    {"name": "University of California, Berkeley", "size": 3938},
+    {"name": "University of California, Davis", "size": 3938},
+    {"name": "University of California, Los Angeles", "size": 3938},
+    {"name": "University of California, San Diego", "size": 3938},
+    {"name": "University of Chicago", "size": 3938},
+    {"name": "University of Illinois at Urbana-Champaign", "size": 3938},
+    {"name": "University of Michigan, Ann Arbor", "size": 3938},
+    {"name": "University of North Carolina at Chapel Hill", "size": 3938},
+    {"name": "University of Pennsylvania", "size": 3938},
+    {"name": "University of Rochester", "size": 3938},
+    {"name": "University of Southern California", "size": 3938},
+    {"name": "University of Texas at Austin", "size": 3938},
+    {"name": "University of Wisconsin-Madison", "size": 3938},
+    {"name": "Yale University", "size": 3938}
+      ]
+      }
+    ]
+  },
+    {
+   "name": "Reliable",
+   "children": [
+    {
+   "name": "Australia",
+   "children": [
+    {"name": "Monash University", "size": 3938},
+    {"name": "University of Melbourne", "size": 3938},
+    {"name": "University of Queensland", "size": 3938}
+      ]
+      },
+    {
+   "name": "Belgium",
+   "children": [
+    {"name": "Ghent University", "size": 3938}
+      ]
+      },
+    {
+   "name": "Canada",
+   "children": [
+    {"name": "McMaster University", "size": 3938},
+    {"name": "University of British Columbia", "size": 3938}
+      ]
+      },
+    {
+   "name": "China",
+   "children": [
+    {"name": "Peking University", "size": 3938},
+    {"name": "Tsinghua University", "size": 3938}
+      ]
+      },
+    {
+   "name": "Finland",
+   "children": [
+    {"name": "University of Helsinki", "size": 3938}
+      ]
+      },
+    {
+   "name": "France",
+   "children": [
+    {"name": "Ecole Normale Superieure", "size": 3938}
+      ]
+      },
+    {
+   "name": "Germany",
+   "children": [
+    {"name": "Heidelberg University", "size": 3938},
+    {"name": "LMU Munich", "size": 3938},
+    {"name": "Technical University of Munich", "size": 3938}
+      ]
+      },
+    {
+   "name": "Israel",
+   "children": [
+    {"name": "Tel Aviv University", "size": 3938}
+      ]
+      },
+    {
+   "name": "Japan",
+   "children": [
+    {"name": "Kyoto University", "size": 3938},
+    {"name": "Tohoku University", "size": 3938}
+      ]
+      },
+    {
+   "name": "Netherlands",
+   "children": [
+    {"name": "Leiden Universit", "size": 3938},
+    {"name": "University of Groningen", "size": 3938},
+    {"name": "Utrecht University", "size": 3938},
+    {"name": "VU University Amsterdam", "size": 3938}
+      ]
+      },
+    {
+   "name": "Singapore",
+   "children": [
+    {"name": "Nanyang Technological University", "size": 3938},
+    {"name": "National University of Singapore", "size": 3938}
+      ]
+      },
+    {
+   "name": "South Korea",
+   "children": [
+    {"name": "Seoul National University", "size": 3938}
+      ]
+      },
+    {
+   "name": "Sweden",
+   "children": [
+    {"name": "Karolinska Institute", "size": 3938},
+    {"name": "Stockholm University", "size": 3938},
+    {"name": "Uppsala University", "size": 3938}
+          ]
+      },
+    {
+   "name": "Switzerland",
+   "children": [
+    {"name": "University of Basel", "size": 3938}
+      ]
+      },
+    {
+   "name": "Taiwan",
+   "children": [
+    {"name": "National Taiwan University", "size": 3938}
+      ]
+      },
+    {
+   "name": "United Kingdom",
+   "children": [
+    {"name": "King's College London", "size": 3938},
+    {"name": "University of Bristol", "size": 3938},
+    {"name": "University of Manchester", "size": 3938}
+      ]
+      },
+    {
+   "name": "USA",
+   "children": [
+    {"name": "Georgia Institute of Technology", "size": 3938},
+    {"name": "Purdue University", "size": 3938},
+    {"name": "Rice University", "size": 3938},
+    {"name": "University of California, Irvine", "size": 3938},
+    {"name": "University of California, Santa Barbara", "size": 3938},
+    {"name": "University of California, Santa Cruz", "size": 3938},
+    {"name": "University of Florida", "size": 3938},
+    {"name": "University of Massachusetts Medical School", "size": 3938},
+    {"name": "University of Minnesota, Twin Cities", "size": 3938},
+    {"name": "University of Pittsburgh", "size": 3938},
+    {"name": "University of Virginia", "size": 3938},
+    {"name": "University of Washington", "size": 3938},
+    {"name": "Vanderbilt University", "size": 3938},
+    {"name": "Washington University in St. Louis", "size": 3938}
+      ]
+      }
+    ]
+  },
+    {
+   "name": "Somewhat Reliable",
+   "children": [
+      {
+   "name": "Australia",
+   "children": [
+    {"name": "Australian National University", "size": 3938},
+    {"name": "University of Western Australia", "size": 3938}
+      ]
+      },
+      {
+   "name": "Denmark",
+   "children": [
+    {"name": "Aarhus University", "size": 3938}
+      ]
+      },
+    {
+   "name": "France",
+   "children": [
+    {"name": "Ecole Polytechnique", "size": 3938},
+    {"name": "University of Paris-Sud", "size": 3938}
+      ]
+      },
+    {
+   "name": "Germany",
+   "children": [
+    {"name": "Free University of Berlin", "size": 3938},
+    {"name": "Humboldt University of Berlin", "size": 3938}
+      ]
+      },
+    {
+   "name": "Israel",
+   "children": [
+    {"name": "Hebrew University of Jerusalem", "size": 3938},
+    {"name": "Technion-Israel Institute of Technology", "size": 3938},
+    {"name": "Weizmann Institute of Science", "size": 3938}
+      ]
+      },
+    {
+   "name": "Japan",
+   "children": [
+    {"name": "Kyushu University", "size": 3938},
+    {"name": "Osaka University", "size": 3938}
+      ]
+      },
+    {
+   "name": "Netherlands",
+   "children": [
+    {"name": "Delft University of Technology", "size": 3938},
+    {"name": "Erasmus University Rotterdam", "size": 3938}
+      ]
+      },
+    {
+   "name": "Russia",
+   "children": [
+    {"name": "Lomonosov Moscow State University", "size": 3938}
+      ]
+      },
+    {
+   "name": "South Korea",
+   "children": [
+    {"name": "Korea Advanced Institute of Science and Technology (KAIST)", "size": 3938},
+    {"name": "Yonsei University", "size": 3938}
+      ]
+      },
+    {
+   "name": "Switzerland",
+   "children": [
+    {"name": "Ecole Polytechnique Federale de Lausanne", "size": 3938},
+    {"name": "University of Geneva", "size": 3938},
+    {"name": "University of Zurich", "size": 3938}
+      ]
+      },
+    {
+   "name": "United Kingdom",
+   "children": [
+    {"name": "Durham University", "size": 3938},
+    {"name": "University of Glasgow", "size": 3938},
+    {"name": "University of Warwick", "size": 3938}
+      ]
+      },
+    {
+   "name": "USA",
+   "children": [
+    {"name": "Arizona State University", "size": 3938},
+    {"name": "Rockefeller University", "size": 3938},
+    {"name": "Rutgers University, New Brunswick", "size": 3938},
+    {"name": "Texas A&M University", "size": 3938},
+    {"name": "University of California, San Francisco", "size": 3938},
+    {"name": "University of Notre Dame", "size": 3938},
+    {"name": "University of Texas MD Anderson Cancer Center", "size": 3938},
+    {"name": "University of Utah", "size": 3938}
+      ]
+      }
+    ]
+  },
+  {
+   "name": "Unreliable",
+   "children": [
+    {
+   "name": "Denmark",
+   "children": [
+    {"name": "University of Copenhagen", "size": 3938}
+      ]
+      },
+    {
+   "name": "France",
+   "children": [
+    {"name": "Pierre and Marie Curie University", "size": 3938},
+    {"name": "University of Strasbourg", "size": 3938}
+      ]
+      },
+    {
+   "name": "Germany",
+   "children": [
+    {"name": "University of Bonn", "size": 3938},
+    {"name": "University of Gottingen", "size": 3938}
+      ]
+      },
+    {
+   "name": "Hongkong",
+   "children": [
+    {"name": "Hong Kong University of Science and Technology", "size": 3938},
+    {"name": "University of Hong Kong", "size": 3938}
+      ]
+      },
+    {
+   "name": "Italy",
+   "children": [
+    {"name": "Scuola Normale Superiore di Pisa", "size": 3938}
+      ]
+      },
+    {
+   "name": "Japan",
+   "children": [
+    {"name": "Keio University", "size": 3938},
+    {"name": "Nagoya University", "size": 3938},
+    {"name": "Waseda University", "size": 3938}
+      ]
+      },
+    {
+   "name": "Netherlands",
+   "children": [
+    {"name": "Wageningen University and Research Centre", "size": 3938}
+      ]
+      },
+    {
+   "name": "Norway",
+   "children": [
+    {"name": "University of Oslo", "size": 3938}
+      ]
+      },
+    {
+   "name": "South Korea",
+   "children": [
+    {"name": "Pohang University of Science and Technology", "size": 3938}
+      ]
+      },
+    {
+   "name": "Turkey",
+   "children": [
+    {"name": "Middle East Technical University", "size": 3938}
+      ]
+      },
+    {
+   "name": "United Kingdom",
+   "children": [
+    {"name": "London School of Economics and Political Science", "size": 3938}
+      ]
+      },
+    {
+   "name": "USA",
+   "children": [
+    {"name": "Dartmouth College", "size": 3938},
+    {"name": "University of Colorado Boulder", "size": 3938},
+    {"name": "University of Maryland, College Park", "size": 3938},
+    {"name": "University of Texas Southwestern Medical Center", "size": 3938}
+      ]
+      }
+    ]
+  }  
+ ]
+}
